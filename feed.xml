@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://vinceoa.github.io/sample-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://vinceoa.github.io/sample-blog/" rel="alternate" type="text/html" /><updated>2021-03-23T19:01:21+00:00</updated><id>https://vinceoa.github.io/sample-blog/feed.xml</id><title type="html">Product Blog</title><subtitle>A blog about products</subtitle><author><name>Vince OA</name></author><entry><title type="html">Protico</title><link href="https://vinceoa.github.io/sample-blog/2020/03/24/portico.html" rel="alternate" type="text/html" title="Protico" /><published>2020-03-24T03:45:13+00:00</published><updated>2020-03-24T03:45:13+00:00</updated><id>https://vinceoa.github.io/sample-blog/2020/03/24/portico</id><content type="html" xml:base="https://vinceoa.github.io/sample-blog/2020/03/24/portico.html">&lt;h1 id=&quot;dinner-expenses&quot;&gt;Dinner expenses&lt;/h1&gt;
+
+&lt;p&gt;Can be hard to justify, keep track of them with the Portico App for when restaurants open&lt;/p&gt;
+
+&lt;h2 id=&quot;new-features&quot;&gt;New features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bookeeping made easy&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Vince OA</name></author><summary type="html">Dinner expenses</summary></entry><entry><title type="html">Top5J</title><link href="https://vinceoa.github.io/sample-blog/2020/03/24/top4j.html" rel="alternate" type="text/html" title="Top5J" /><published>2020-03-24T03:45:13+00:00</published><updated>2020-03-24T03:45:13+00:00</updated><id>https://vinceoa.github.io/sample-blog/2020/03/24/top4j</id><content type="html" xml:base="https://vinceoa.github.io/sample-blog/2020/03/24/top4j.html">&lt;h1 id=&quot;in-the-beginning&quot;&gt;In the Beginning&lt;/h1&gt;
+
+&lt;p&gt;There was free memory.&lt;/p&gt;
+
+&lt;p&gt;Then came Java.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-it-upto&quot;&gt;Whats it upto?&lt;/h2&gt;</content><author><name>Vince OA</name></author><summary type="html">In the Beginning</summary></entry></feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://vinceoa.github.io/sample-blog/2020/03/24/portico.html</loc>
+<lastmod>2020-03-24T03:45:13+00:00</lastmod>
+</url>
+<url>
+<loc>https://vinceoa.github.io/sample-blog/2020/03/24/top4j.html</loc>
+<lastmod>2020-03-24T03:45:13+00:00</lastmod>
+</url>
+<url>
+<loc>https://vinceoa.github.io/sample-blog/about.html</loc>
+</url>
+<url>
+<loc>https://vinceoa.github.io/sample-blog/contact.html</loc>
+</url>
+<url>
+<loc>https://vinceoa.github.io/sample-blog/posts/</loc>
+</url>
+<url>
+<loc>https://vinceoa.github.io/sample-blog/</loc>
+</url>
+</urlset>
