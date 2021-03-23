@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Portico"
+title: "Protico"
 subtitle: "Accounting for that expense"
 date: 2020-03-23 23:45:13 -0400
 background: '/img/posts/portico.png'
