@@ -2,7 +2,7 @@ title: Product Blog
 email: your-email@example.com
 description: A blog about products
 author: Vince OA
-baseurl: '/startbootstrap-clean-blog-jekyll'
+baseurl: '/sample-blog'
 url: 'https://vinceoa.github.io'
 
 # Social Profiles
