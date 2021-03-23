@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "Stuff goes here"
-subtitle: "because they lacked opposable thumbs and the brainpower to build a space program."
+title: "Top4J"
+subtitle: "Because who knows what Java's upto"
 date: 2020-03-23 23:45:13 -0400
+background: '/img/posts/top4j.png'
 ---
 
-# hello
+# In the Beginning
 
-## important things
+There was free memory.
+
+Then came Java.
+
+## Whats it upto?
 
 

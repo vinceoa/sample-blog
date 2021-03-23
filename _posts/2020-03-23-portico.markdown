@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Portico"
+subtitle: "Account for that expense"
+date: 2020-03-23 23:45:13 -0400
+background: '/img/posts/portico.png'
+---
+
+# Dinner expenses
+
+Can be hard to justify, keep track of them with the Portico App for when restaurants open
+
+## New features
+
+ - Bookeeping made easy
+
+
